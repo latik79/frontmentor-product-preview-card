@@ -1,0 +1,1 @@
+# frontmentor-product-preview-card
